@@ -1,0 +1,28 @@
+Notes:
+Files in this directory allow reproducing the Bayesian inference of the time-calibrated teleost species tree. While the scripts provided here should in principle allow running the complete BEAST analyses, these will be run consecutively and therefore require extremely long run times. It is recommended that instead of running the script 'ruby run_BEAST_analyses.rb', analyses should be submitted to a computer server. SLURM files for all replicate analyses will be written to each replicate analysis directory but may need to be adjusted according to server architecture.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+java (tested with version 1.8.0_151)
+ruby (tested with version ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16])
+
+Software in bin directory:
+beast.jar - Jar archive of BEAST version 2.4.5 Prerelease (Bouckaert et al. 2014), obtained from https://github.com/CompEvol/beast2/releases.
+CA - Directory for BEAST add-on package CA (Matschiner et al. 2017), imported with BEAUti.
+RBS - Directory for BEAST add-on package RBS (Bouckaert et al. 2013), imported with BEAUti.
+treeannotator.jar - Jar archive of TreeAnnotator, distributed with BEAST.
+
+Input files in data directory:
+nuclear/*.nex - Alignments of 113 genes identified as particularly suitable phylogenomic markers (see the directory for analysis 'ortholog_identification').
+constraints/root_constraints.xml - Constraints specified in XML format for the monophyly of ingroup and outgroup as well as for the age of the root. As this file was used only in the analysis that did not aim for time-calibration but for estimating node support, the root age was specified arbitrarily as 200 Ma.
+constraints/fossil_constraints_28a.xml - Constraints in XML format on clade ages based on 28 fossil calibration points. In this file, Plectocretacicus clarae is used as the earliest record of Tetraodontiformes.
+constraints/fossil_constraints_28b.xml - Constraints in XML format on clade ages based on 28 fossil calibration points. In this file, Cretatriacanthus guidottii is used as the earliest record of Tetraodontiformes.
+
+Executing this pipeline:
+cd [PATH]/phylogenetic_inference/src
+bash run_all.sh
+
+References:
+Bouckaert RR, Alvarado-Mora MV, Rebello Pinho JR (2013) Evolutionary rates and HBV: issues of rate estimation with Bayesian molecular methods. Antiviral Therapy, 18, 497–503.
+Bouckaert RR, Heled J, Kühnert D et al. (2014) BEAST 2: a software platform for Bayesian evolutionary analysis. PLOS Computational Biology, 10, e1003537.
+Matschiner M, Musilová Z, Barth JMI et al. (2017) Bayesian phylogenetic estimation of clade ages supports trans-Atlantic dispersal of cichlid fishes. Systematic Biology, 66, 3–22.
