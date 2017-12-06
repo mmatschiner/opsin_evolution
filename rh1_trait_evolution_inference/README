@@ -1,0 +1,28 @@
+Notes:
+Files in this directory allow reproducing the reconstruction of lambda_max evolution based on the RH1 gene tree.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+R and rscript (tested with version 3.3.2)
+geiger (R package; tested with version 2.0.6) (Pennell et al. 2014)
+phytools (R package; tested with version 0.5-64) (Revell 2012)
+ape (R package; tested with version 4.0) (Paradis et al. 2004)
+Rphylopars (R package; tested with version 0.2.9) (Goolsby 2017)
+picante (R package; tested with version 1.6-2) (Kembel 2010)
+
+Input files in data directory:
+tables/keep_list.txt - List of gene ids for Diretmus argenteus.
+tables/wavelengths.txt - List of lambda_max values for Diretmus argenteus RH1 genes.
+trees/rod_opsin.tre - MCC tree resulting from RH1 gene-tree analyses (see directory 'rh1_gene_tree_inference').
+trees/rod_opsin.trees.gz - gzip-compressed file with the posterior tree distribution of RH1 gene trees (see directory 'rh1_gene_tree_inference').
+
+Executing this pipeline:
+cd [PATH]/rh1_trait_evolution_inference/src
+bash run_all.sh
+
+References:
+Pennell MW, Eastman JM, Slater GJ et al. (2014) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics, 30, 2216–2218.
+Revell LJ (2012) phytools: an R package for phylogenetic comparative biology (and other things). Methods in Ecology and Evolution, 3, 217–223.
+Paradis E, Claude J, Strimmer K (2004) APE: Analyses of Phylogenetics and Evolution in R language. Bioinformatics, 20, 289–290.
+Goolsby EW (2017) Rapid maximum likelihood ancestral state reconstruction of continuous characters: A rerooting-free algorithm. Ecology and Evolution, 7, 2791–2797.
+Kembel SW, Cowan PD, Helmus MR et al. (2010) Picante: R tools for integrating phylogenies and ecology. Bioinformatics, 26, 1463–1464.
