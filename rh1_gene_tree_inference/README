@@ -1,0 +1,26 @@
+Notes:
+Files in this directory allow reproducing the RH1 gene-tree analyses.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+java (tested with version 1.8.0_151)
+ruby (tested with version ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16])
+
+Software in bin directory:
+beast.jar - Jar archive of BEAST version 2.4.5 Prerelease (Bouckaert et al. 2014), obtained from https://github.com/CompEvol/beast2/releases.
+BEASTLabs - Directory for BEAST add-on package BEASTLabs, imported with BEAUti.
+bModelTest - Directory for BEAST add-on package bModelTest (Bouckaert & Drummond 2017), imported with BEAUti.
+treeannotator.jar - Jar archive of TreeAnnotator, distributed with BEAST.
+
+Input files in data directory:
+alignments/RH1_ourdata_20161023.nex - Alignment of RH1 sequences.
+constraints/constraints.txt - Specification of age constraints for speciation nodes of the RH1 gene tree. These are derived from the time-calibrated species tree (see the directory for analysis 'phylogenetic_inference').
+101g_nucl_conc_28bfossils.combined.tre - Time-calibrated teleost species tree (result file of the analysis 'phylogenetic_inference', see the respective directory).
+
+Executing this pipeline:
+cd [PATH]/rh1_gene_tree_inference/src
+bash run_all.sh
+
+References:
+Bouckaert RR, Drummond AJ (2017) bModelTest: Bayesian phylogenetic site model averaging and model comparison. BMC Evolutionary Biology, 17, 42.
+Bouckaert RR, Heled J, Kühnert D et al. (2014) BEAST 2: a software platform for Bayesian evolutionary analysis. PLOS Computational Biology, 10, e1003537.
