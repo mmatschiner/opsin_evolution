@@ -1,0 +1,8 @@
+<addon name='BEASTLabs' version='1.7.0'>
+	<depends on='beast2' atleast='2.4.3'/>
+    <addonapp description="BEAST model spreadsheet"
+              class="beast.app.draw.SpreadSheet"
+              args=""
+              icon=""
+            />
+</addon>

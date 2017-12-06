@@ -1,0 +1,31 @@
+Notes:
+Files in this directory allow reproducing the Bayesian reconstruction of ancestral sequences as well as dN/dS calculations.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+java (tested with version 1.8.0_151)
+ruby (tested with version ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16])
+codeml (tested with version 4.9) (Yang 2007)
+R and rscript (tested with version 3.3.2)
+
+Software in bin directory:
+beast.jar - Jar archive of BEAST version 2.4.5 Prerelease (Bouckaert et al. 2014), obtained from https://github.com/CompEvol/beast2/releases.
+BEASTLabs - Directory for BEAST add-on package BEASTLabs, imported with BEAUti.
+MM - Directory for BEAST add-on package MM (implementing models of Lewis 2001), imported with BEAUti.
+
+Input files in data directory:
+alignments/indels.nex - Specification of indel absence and presence in Nexus format.
+alignments/RH1_ourdata_20161023_trimmed.phy - RH1 gene alignment, trimmed by removing positions after site 1052.
+tables/key_tuning_sites.txt - Table of key spectral tuning sites.
+trees/rod_opsin_notranslate.tre - MCC tree of the time-calibrated RH1 gene phylogeny (see the directory for analysis 'rh1_gene_tree_inference').
+xml/indels.xml - BEAST input file for the Bayesian reconstruction of indel states at internal nodes of the gene phylogeny. This file was produced with BEAUti.
+xml/nucleotides.xml - BEAST input file for the Bayesian reconstruction of nucleotide states at internal nodes of the gene phylogeny. This file was produced with BEAUti.
+
+Executing this pipeline:
+cd [PATH]/phylogenetic_inference/src
+bash run_all.sh
+
+References:
+Bouckaert RR, Heled J, Kühnert D et al. (2014) BEAST 2: a software platform for Bayesian evolutionary analysis. PLOS Computational Biology, 10, e1003537.
+Lewis PO (2001) A likelihood approach to estimating phylogeny from discrete morphological character data. Systematic Biology, 50, 913–925.
+Yang Z (2007) PAML 4: Phylogenetic Analysis by Maximum Likelihood. Molecular Biology and Evolution, 24, 1586–1591.
