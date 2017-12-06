@@ -6,7 +6,7 @@ bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
 R and rscript (tested with version 3.3.2)
 
 Input files in data directory:
-101g_nucl_conc_28bfossils.combined.tre - time-calibrated teleost species tree (result file of the analysis 'phylogenetic_inference', see the respective directory)
+101g_nucl_conc_28bfossils.combined.tre - Time-calibrated teleost species tree (result file of the analysis 'phylogenetic_inference', see the respective directory).
 depth_mindepth1.txt - Table with median catch depths of teleost species. A minimum depth of 1 meter is used.
 
 Executing this pipeline:
