@@ -1,0 +1,65 @@
+Notes:
+Files in this directory allow reproducing the ortholog detection pipeline for phylogenomic analyses. As a first step of this pipeline, genomes of 83 fish species (of the 101 included in this study) will be automatically downloaded with script 'download_assemblies.sh' from GenBank, ENSEMBL, ENA, and Dryad, these will require around 50 GB of disk space. In addition, assemblies of 7 newly sequenced genomes and 8 previously available read data sets must be downloaded manually from an online repository associated with this study. These files are
+
+fish_41.scf.fasta (Opsanus beta)
+fish_67.scf.fasta (Cetomimus sp.)
+fish_71.scf.fasta (Anoplogaster cornuta)
+fish_72.scf.fasta (Diretmus argenteus)
+fish_73.scf.fasta (Diretmoides pauciradiatus)
+fish_75.scf.fasta (Gephyroberyx darwinii)
+fish_76.scf.fasta (Hoplostethus atlanticus)
+Caig.scf.fasta (Caranx ignobilis)
+Came.scf.fasta (Caranx melampygus)
+Clha.scf.fasta (Clupea harengus)
+Cyca.scf.fasta (Cyprinus carpio)
+Elel.scf.fasta (Electrophorus electricus)
+Epae.scf.fasta (Epinephelus aeneus)
+Moal.scf.fasta (Monopterus albus)
+Pipr.scf.fasta (Pimephales promelas)
+
+The final repository for these files is yet unknown, temporarily these files can be obtained from https://hts-nonsecure.web.sigma2.no/zuza_fabio/ (username and password should have been communicated to reviewers). After downloading, the 7+8 new assembly files must then be placed in ../data/subjects. Finally, three further genomes used in our study are so far unpublished, these are for the species Syngnathus typhle, Synodus synodus, and Lophius vaillanti. We here include those parts of these genomes that include exon markers used for phylogenomic analyses. The files for these three partial genomes are
+
+Syntyp.part.fasta (Syngnathus typhle)
+fish_45.part.fasta (Synodus synodus)
+fish_51.part.fasta (Lophius vaillanti)
+
+These files are already placed in ../data/subjects. Note that running the script 'find_orthologs_nuclear.sh' may require a long run time (many days). To speed up this analysis step, this analysis can be performed on a computer server using SLURM. To do so, uncomment line 15 in script 'find_orthologs_nuclear.sh' and comment lines 17 and 18 in the same script instead.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+python3 (tested with version 3.4.0)
+python (tested with version 2.7.10)
+tblastn (tested with version 2.2.26+) (Altschul et al. 1990)
+java (tested with version 1.8.0_151)
+ruby (tested with version ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16])
+mafft (tested with v7.157b) (Katoh & Standley 2013)
+perl (tested with version 5.18.2)
+codeml (tested with version 4.8)
+
+Software in bin directory:
+beast.jar - Jar archive of BEAST version 2.4.5 Prerelease (Bouckaert et al. 2014), obtained from https://github.com/CompEvol/beast2/releases.
+BMGE.jar - Jar archive of BMGE version 1.0 (Criscuolo & Gribaldo 2010).
+concaterpillar - Directory with Python scripts of the software Concaterpillar (Leigh et al. 2008)
+RBS - Directory for BEAST add-on package RBS (Bouckaert et al. 2013), imported with BEAUti.
+raxmlHPC - Compiled raxml version 7.2.8 (Stamatakis 2006), this version is required for Concaterpillar.
+
+Input files in data directory:
+constraints/root_constraints.xml - Constraints specified in XML format for the monophyly of ingroup and outgroup as well as for the age of the root. As this file was used only in the analysis that did not aim for time-calibration but for estimating node support, the root age was specified arbitrarily as 200 Ma.
+genes.dmp - Ruby archive with information about zebrafish genes generated in the analysis step 'S10_S11_markers_for_phylogenetic_reconstruction' of Malmstrøm et al. (2016). This file is required by script 'filter_genes_by_exon_number.rb' and is identical to that at Malmstrøm et al.'s (2016) code repository https://github.com/uio-cees/teleost_genomes_immune/tree/master/S10_S11_markers_for_phylogenetic_reconstruction/data/genes.dmp.
+queries/nuclear/exons.fasta - List of 2252 zebrafish exons sequences that were identified as suitable phylogenomic markers in analysis step 'S10_S11_markers_for_phylogenetic_reconstruction' of Malmstrøm et al. (2016). Each exon sequence is associated with a bitscore threshold that allows identification of orthologs. This file is identical to that at Malmstrøm et al.'s (2016) code repository at https://github.com/uio-cees/teleost_genomes_immune/tree/master/S11_S14_ortholog_detection_and_filtering/data/queries/nuclear/exons.fasta.
+subjects/*.part.fasta - Sequence data containing orthologous exon markers from the three species Synodus synodus (fish_45.part.fasta), Lophius vaillanti (fish_51.part.fasta), and Syngnathus typhle (Syntyp.part.fasta). These files are provided here because the full genome assemblies of the three species, to which we had access, are not yet publicly available.
+subjects/nuclear.txt - List of the paths, at which the 101 genome assemblies (including the three partial ones) should be placed for the pipeline to run. With the exception of the 7+8 new assembly files (see above), all assembly files will be automatically downloaded and placed in these locations when running script 'download_assemblies.sh'.
+tables/nuclear_queries_exons.txt - Information about the 2252 zebrafish exon sequences, resulting from analysis step 'S10_S11_markers_for_phylogenetic_reconstruction' of Malmstrøm et al. (2016).
+
+Executing this pipeline:
+cd [PATH]/ortholog_identification/src
+bash run_all.sh
+
+References:
+Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ (1990) Basic local alignment search tool. Journal of Molecular Biology, 215, 403–410.
+Bouckaert RR, Alvarado-Mora MV, Rebello Pinho JR (2013) Evolutionary rates and HBV: issues of rate estimation with Bayesian molecular methods. Antiviral Therapy, 18, 497–503.
+Bouckaert RR, Heled J, Kühnert D et al. (2014) BEAST 2: a software platform for Bayesian evolutionary analysis. PLOS Computational Biology, 10, e1003537.
+Katoh K, Standley DM (2013) MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Molecular Biology and Evolution, 30, 772–780.
+Leigh JW, Susko E, Baumgartner M, Roger AJ (2008) Testing congruence in phylogenomic analysis. Systematic Biology, 57, 104–115.
+Malmstrøm M, Matschiner M, Tørresen OK et al. (2016) Evolution of the immune system influences speciation rates in teleost fishes. Nature Genetics, 48, 1204–1210.
+Stamatakis A (2006) RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models. Bioinformatics, 22, 2688–2690.
