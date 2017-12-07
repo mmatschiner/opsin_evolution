@@ -1,1 +1,9 @@
 Please see README files in subdirectories for more information about individual analysis steps.
+
+Analyses were performed in the following order:
+- ortholog_identification
+- phylogenetic_inference
+- depth_reconstruction
+- rh1_gene_tree_inference
+- rh1_trait_evolution_inference
+- rh1_ancestral_sequence_inference

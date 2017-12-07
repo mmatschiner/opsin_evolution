@@ -1,11 +1,11 @@
 Notes:
-Files in this directory allow reproducing the Bayesian reconstruction of ancestral sequences as well as dN/dS calculations.
+Files in this directory allow reproducing the Bayesian reconstruction of ancestral sequences as well as dN/dS calculations. BEAST runs included in this analysis are relatively fast and can be performed on a desktop computer.
 
 Software required:
 bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
 java (tested with version 1.8.0_151)
 ruby (tested with version ruby 2.0.0p648 (2015-12-16 revision 53162) [universal.x86_64-darwin16])
-codeml (tested with version 4.9) (Yang 2007)
+codeml (tested with version 4.8) (Yang 2007)
 R and rscript (tested with version 3.3.2)
 
 Software in bin directory:
