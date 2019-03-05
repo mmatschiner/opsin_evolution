@@ -6,6 +6,9 @@ bash prune_trees.sh
 # Make a disparity-through-time plot with geiger.
 bash run_dtt_on_tree.sh
 
+# Plot the trajectories of all dtt analyses with different combinations of phased genes.
+bash plot_dtts.sh
+
 # Make a phenogram of wavelength evolution with phytools.
 bash produce_phenogram.sh
 

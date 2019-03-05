@@ -12,7 +12,8 @@ picante (R package; tested with version 1.6-2) (Kembel 2010)
 
 Input files in data directory:
 tables/keep_list.txt - List of gene ids for Diretmus argenteus.
-tables/wavelengths.txt - List of lambda_max values for Diretmus argenteus RH1 genes.
+tables/wavelengths.txt - List of lambda_max values for Diretmus argenteus RH1 genes, based on experiments and prediction.
+tables/wavelengths_model_predicted.txt - List of lambda_max values for Diretmus argenteus RH1 genes, based on atomistic modeling.
 trees/rod_opsin.tre - MCC tree resulting from RH1 gene-tree analyses (see directory 'rh1_gene_tree_inference').
 trees/rod_opsin.trees.gz - gzip-compressed file with the posterior tree distribution of RH1 gene trees (see directory 'rh1_gene_tree_inference').
 
