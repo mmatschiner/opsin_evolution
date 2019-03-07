@@ -1,0 +1,13 @@
+Notes:
+Files in this directory allow reproducing the generation of the atomistic model and the leave-one-out analysis.
+
+Software required:
+bash (tested with GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin16))
+R and rscript (tested with version 3.3.2)
+
+Input files in data directory:
+deep_sea_medians_noEel.txt - Torsions and angles for rod opsin genes.
+
+Executing this pipeline:
+cd [PATH]/atomistic_molecular_dynamics_simulations/src
+bash run_all.sh
