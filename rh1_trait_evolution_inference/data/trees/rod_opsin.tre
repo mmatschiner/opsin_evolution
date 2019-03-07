@@ -17,39 +17,39 @@ Begin taxa;
 			Lampris_guttatus_RH1 
 			Regalecus_glesne_RH1 
 			Polymixia_japonica_RH1 
-			Diretmoides_pauciradiatus_RH1_COP_cDNA 
-			Diretmoides_pauciradiatus_RH1_U_cDNA 
-			Diretmoides_pauciradiatus_RH1_ZLO_cDNA 
+			Diretmoides_pauciradiatus_RH1_MUb 
+			Diretmoides_pauciradiatus_RH1_MUa 
+			Diretmoides_pauciradiatus_RH1_MUc 
 			Diretmus_argenteus_RH1_Ma 
 			Diretmus_argenteus_RH1_Ua 
-			Diretmus_argenteus_RH1_Ub_RH1 
+			Diretmus_argenteus_RH1_Ub 
 			Diretmus_argenteus_RH1_Ud 
 			Diretmus_argenteus_RH1_Uc 
 			Diretmus_argenteus_RH1_Mb 
-			Diretmoides_pauciradiatus_RH1_FUJ_cDNA 
-			Diretmoides_pauciradiatus_RH1_KRK_part_cDNA 
-			Diretmoides_pauciradiatus_RH1_STO_cDNA 
+			Diretmoides_pauciradiatus_RH1_La 
+			Diretmoides_pauciradiatus_RH1_Mu 
+			Diretmoides_pauciradiatus_RH1_Lb 
 			Diretmus_argenteus_RH1_La 
 			Diretmus_argenteus_RH1_Lb 
 			Diretmus_argenteus_RH1_Lc 
 			Diretmus_argenteus_RH1_Za 
 			Diretmus_argenteus_RH1_Zb 
-			Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA 
+			Diretmoides_pauciradiatus_RH1_Ka 
 			Diretmus_argenteus_RH1_K 
-			Diretmoides_pauciradiatus_RH1_VLK_cDNA 
+			Diretmoides_pauciradiatus_RH1_Kb 
 			Diretmus_argenteus_RH1_Ja 
 			Diretmus_argenteus_RH1_Jb 
 			Diretmus_argenteus_RH1_O 
-			Diretmoides_pauciradiatus_RH1_PES_cDNA 
+			Diretmoides_pauciradiatus_RH1_KOJ 
 			Diretmus_argenteus_RH1_N 
-			Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA 
-			Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen 
-			Diretmoides_pauciradiatus_RH1_X_cDNA 
+			Diretmoides_pauciradiatus_RH1_OJa 
+			Diretmoides_pauciradiatus_RH1_OJb 
+			Diretmoides_pauciradiatus_RH1_X 
 			Diretmus_argenteus_RH1_Xa 
 			Diretmus_argenteus_RH1_Xb 
-			Diretmoides_pauciradiatus_RH1_MRKc_cDNA 
+			Diretmoides_pauciradiatus_RH1_Y 
 			Diretmus_argenteus_RH1_Y 
-			Diretmoides_pauciradiatus_RH1_MOC_cDNA 
+			Diretmoides_pauciradiatus_RH1_P 
 			Diretmus_argenteus_RH1_P 
 			Parasudis_frasserbrunneri_RH1 
 			Diretmus_argenteus_RH1_Q_pseudogene 
@@ -172,31 +172,31 @@ Begin taxa;
 			Ceratoscopelus_warmingii_RH1x1 
 			Ceratoscopelus_warmingii_RH1x2 
 			Scopelopsis_multipunctatus_RH1x1 
-			Diretmoides_pauciradiatus_RH1_D_cDNA 
+			Diretmoides_pauciradiatus_RH1_D 
 			Diretmus_argenteus_RH1_D 
 			Diretmus_argenteus_RH1_C 
 			Diretmus_argenteus_RH1_E_pseudogen 
 			Diretmus_argenteus_RH1_B 
 			Diretmus_argenteus_RH1_A 
-			Diretmoides_pauciradiatus_RH1_FabGab_cDNA 
+			Diretmoides_pauciradiatus_RH1_FG 
 			Diretmus_argenteus_RH1_Fa 
 			Diretmus_argenteus_RH1_Fb 
 			Diretmus_argenteus_RH1_Ga 
 			Diretmus_argenteus_RH1_Gb 
-			Diretmoides_pauciradiatus_RH1_HabIa_cDNA 
+			Diretmoides_pauciradiatus_RH1_HFG 
 			Diretmus_argenteus_RH1_Ha 
 			Diretmus_argenteus_RH1_Hb 
 			Diretmus_argenteus_RH1_Hc 
 			Diretmus_argenteus_RH1_Hd 
 			Diretmus_argenteus_RH1_He_pseudogene 
 			Diretmus_argenteus_RH1_Ia 
-			Diretmoides_pauciradiatus_RH1_S_cDNA 
+			Diretmoides_pauciradiatus_RH1_SV 
 			Diretmus_argenteus_RH1_S 
 			Diretmus_argenteus_RH1_V 
 			Diretmus_argenteus_RH1_Ib_part 
-			Diretmoides_pauciradiatus_RH1_W_cDNA 
+			Diretmoides_pauciradiatus_RH1_W 
 			Diretmus_argenteus_RH1_W 
-			Diretmoides_pauciradiatus_RH1_T_cDNA 
+			Diretmoides_pauciradiatus_RH1_T 
 			Diretmus_argenteus_RH1_T 
 			Cyprinus_carpio_RH1_01_like_pseud 
 			Cyprinus_carpio_RH1_02_like 
@@ -221,39 +221,39 @@ Begin trees;
 		  12 Lampris_guttatus_RH1,
 		  13 Regalecus_glesne_RH1,
 		  14 Polymixia_japonica_RH1,
-		  15 Diretmoides_pauciradiatus_RH1_COP_cDNA,
-		  16 Diretmoides_pauciradiatus_RH1_U_cDNA,
-		  17 Diretmoides_pauciradiatus_RH1_ZLO_cDNA,
+		  15 Diretmoides_pauciradiatus_RH1_MUb,
+		  16 Diretmoides_pauciradiatus_RH1_MUa,
+		  17 Diretmoides_pauciradiatus_RH1_MUc,
 		  18 Diretmus_argenteus_RH1_Ma,
 		  19 Diretmus_argenteus_RH1_Ua,
-		  20 Diretmus_argenteus_RH1_Ub_RH1,
+		  20 Diretmus_argenteus_RH1_Ub,
 		  21 Diretmus_argenteus_RH1_Ud,
 		  22 Diretmus_argenteus_RH1_Uc,
 		  23 Diretmus_argenteus_RH1_Mb,
-		  24 Diretmoides_pauciradiatus_RH1_FUJ_cDNA,
-		  25 Diretmoides_pauciradiatus_RH1_KRK_part_cDNA,
-		  26 Diretmoides_pauciradiatus_RH1_STO_cDNA,
+		  24 Diretmoides_pauciradiatus_RH1_La,
+		  25 Diretmoides_pauciradiatus_RH1_Mu,
+		  26 Diretmoides_pauciradiatus_RH1_Lb,
 		  27 Diretmus_argenteus_RH1_La,
 		  28 Diretmus_argenteus_RH1_Lb,
 		  29 Diretmus_argenteus_RH1_Lc,
 		  30 Diretmus_argenteus_RH1_Za,
 		  31 Diretmus_argenteus_RH1_Zb,
-		  32 Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA,
+		  32 Diretmoides_pauciradiatus_RH1_Ka,
 		  33 Diretmus_argenteus_RH1_K,
-		  34 Diretmoides_pauciradiatus_RH1_VLK_cDNA,
+		  34 Diretmoides_pauciradiatus_RH1_Kb,
 		  35 Diretmus_argenteus_RH1_Ja,
 		  36 Diretmus_argenteus_RH1_Jb,
 		  37 Diretmus_argenteus_RH1_O,
-		  38 Diretmoides_pauciradiatus_RH1_PES_cDNA,
+		  38 Diretmoides_pauciradiatus_RH1_KOJ,
 		  39 Diretmus_argenteus_RH1_N,
-		  40 Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA,
-		  41 Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen,
-		  42 Diretmoides_pauciradiatus_RH1_X_cDNA,
+		  40 Diretmoides_pauciradiatus_RH1_OJa,
+		  41 Diretmoides_pauciradiatus_RH1_OJb,
+		  42 Diretmoides_pauciradiatus_RH1_X,
 		  43 Diretmus_argenteus_RH1_Xa,
 		  44 Diretmus_argenteus_RH1_Xb,
-		  45 Diretmoides_pauciradiatus_RH1_MRKc_cDNA,
+		  45 Diretmoides_pauciradiatus_RH1_Y,
 		  46 Diretmus_argenteus_RH1_Y,
-		  47 Diretmoides_pauciradiatus_RH1_MOC_cDNA,
+		  47 Diretmoides_pauciradiatus_RH1_P,
 		  48 Diretmus_argenteus_RH1_P,
 		  49 Parasudis_frasserbrunneri_RH1,
 		  50 Diretmus_argenteus_RH1_Q_pseudogene,
@@ -376,31 +376,31 @@ Begin trees;
 		 167 Ceratoscopelus_warmingii_RH1x1,
 		 168 Ceratoscopelus_warmingii_RH1x2,
 		 169 Scopelopsis_multipunctatus_RH1x1,
-		 170 Diretmoides_pauciradiatus_RH1_D_cDNA,
+		 170 Diretmoides_pauciradiatus_RH1_D,
 		 171 Diretmus_argenteus_RH1_D,
 		 172 Diretmus_argenteus_RH1_C,
 		 173 Diretmus_argenteus_RH1_E_pseudogen,
 		 174 Diretmus_argenteus_RH1_B,
 		 175 Diretmus_argenteus_RH1_A,
-		 176 Diretmoides_pauciradiatus_RH1_FabGab_cDNA,
+		 176 Diretmoides_pauciradiatus_RH1_FG,
 		 177 Diretmus_argenteus_RH1_Fa,
 		 178 Diretmus_argenteus_RH1_Fb,
 		 179 Diretmus_argenteus_RH1_Ga,
 		 180 Diretmus_argenteus_RH1_Gb,
-		 181 Diretmoides_pauciradiatus_RH1_HabIa_cDNA,
+		 181 Diretmoides_pauciradiatus_RH1_HFG,
 		 182 Diretmus_argenteus_RH1_Ha,
 		 183 Diretmus_argenteus_RH1_Hb,
 		 184 Diretmus_argenteus_RH1_Hc,
 		 185 Diretmus_argenteus_RH1_Hd,
 		 186 Diretmus_argenteus_RH1_He_pseudogene,
 		 187 Diretmus_argenteus_RH1_Ia,
-		 188 Diretmoides_pauciradiatus_RH1_S_cDNA,
+		 188 Diretmoides_pauciradiatus_RH1_SV,
 		 189 Diretmus_argenteus_RH1_S,
 		 190 Diretmus_argenteus_RH1_V,
 		 191 Diretmus_argenteus_RH1_Ib_part,
-		 192 Diretmoides_pauciradiatus_RH1_W_cDNA,
+		 192 Diretmoides_pauciradiatus_RH1_W,
 		 193 Diretmus_argenteus_RH1_W,
-		 194 Diretmoides_pauciradiatus_RH1_T_cDNA,
+		 194 Diretmoides_pauciradiatus_RH1_T,
 		 195 Diretmus_argenteus_RH1_T,
 		 196 Cyprinus_carpio_RH1_01_like_pseud,
 		 197 Cyprinus_carpio_RH1_02_like,

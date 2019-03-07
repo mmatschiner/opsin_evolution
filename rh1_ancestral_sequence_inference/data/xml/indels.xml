@@ -17,39 +17,39 @@
         <sequence id="seq_Lampris_guttatus_RH1" taxon="Lampris_guttatus_RH1" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Regalecus_glesne_RH1" taxon="Regalecus_glesne_RH1" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Polymixia_japonica_RH1" taxon="Polymixia_japonica_RH1" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_COP_cDNA" taxon="Diretmoides_pauciradiatus_RH1_COP_cDNA" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_U_cDNA" taxon="Diretmoides_pauciradiatus_RH1_U_cDNA" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_ZLO_cDNA" taxon="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MUb" taxon="Diretmoides_pauciradiatus_RH1_MUb" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MUa" taxon="Diretmoides_pauciradiatus_RH1_MUa" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MUc" taxon="Diretmoides_pauciradiatus_RH1_MUc" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ma" taxon="Diretmus_argenteus_RH1_Ma" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ua" taxon="Diretmus_argenteus_RH1_Ua" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmus_argenteus_RH1_Ub_RH1" taxon="Diretmus_argenteus_RH1_Ub_RH1" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmus_argenteus_RH1_Ub" taxon="Diretmus_argenteus_RH1_Ub_RH1" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ud" taxon="Diretmus_argenteus_RH1_Ud" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Uc" taxon="Diretmus_argenteus_RH1_Uc" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Mb" taxon="Diretmus_argenteus_RH1_Mb" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_FUJ_cDNA" taxon="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" taxon="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_STO_cDNA" taxon="Diretmoides_pauciradiatus_RH1_STO_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_La" taxon="Diretmoides_pauciradiatus_RH1_La" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_Mu" taxon="Diretmoides_pauciradiatus_RH1_Mu" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_Lb" taxon="Diretmoides_pauciradiatus_RH1_Lb" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_La" taxon="Diretmus_argenteus_RH1_La" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Lb" taxon="Diretmus_argenteus_RH1_Lb" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Lc" taxon="Diretmus_argenteus_RH1_Lc" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Za" taxon="Diretmus_argenteus_RH1_Za" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Zb" taxon="Diretmus_argenteus_RH1_Zb" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" taxon="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_Ka" taxon="Diretmoides_pauciradiatus_RH1_Ka" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_K" taxon="Diretmus_argenteus_RH1_K" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_VLK_cDNA" taxon="Diretmoides_pauciradiatus_RH1_VLK_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_Kb" taxon="Diretmoides_pauciradiatus_RH1_Kb" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ja" taxon="Diretmus_argenteus_RH1_Ja" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Jb" taxon="Diretmus_argenteus_RH1_Jb" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_O" taxon="Diretmus_argenteus_RH1_O" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_PES_cDNA" taxon="Diretmoides_pauciradiatus_RH1_PES_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_KOJ" taxon="Diretmoides_pauciradiatus_RH1_KOJ" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_N" taxon="Diretmus_argenteus_RH1_N" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" taxon="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" totalcount="2" value="00100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" taxon="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" totalcount="2" value="00100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_X_cDNA" taxon="Diretmoides_pauciradiatus_RH1_X_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_OJa" taxon="Diretmoides_pauciradiatus_RH1_OJa" totalcount="2" value="00100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_OJb" taxon="Diretmoides_pauciradiatus_RH1_OJb" totalcount="2" value="00100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_X" taxon="Diretmoides_pauciradiatus_RH1_X" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Xa" taxon="Diretmus_argenteus_RH1_Xa" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Xb" taxon="Diretmus_argenteus_RH1_Xb" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MRKc_cDNA" taxon="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_Y" taxon="Diretmoides_pauciradiatus_RH1_Y" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Y" taxon="Diretmus_argenteus_RH1_Y" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_MOC_cDNA" taxon="Diretmoides_pauciradiatus_RH1_MOC_cDNA" totalcount="2" value="01100111001101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_P" taxon="Diretmoides_pauciradiatus_RH1_P" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_P" taxon="Diretmus_argenteus_RH1_P" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Parasudis_frasserbrunneri_RH1" taxon="Parasudis_frasserbrunneri_RH1" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Q_pseudogene" taxon="Diretmus_argenteus_RH1_Q_pseudogene" totalcount="2" value="01000111001101"/>
@@ -172,31 +172,31 @@
         <sequence id="seq_Ceratoscopelus_warmingii_RH1x1" taxon="Ceratoscopelus_warmingii_RH1x1" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Ceratoscopelus_warmingii_RH1x2" taxon="Ceratoscopelus_warmingii_RH1x2" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Scopelopsis_multipunctatus_RH1x1" taxon="Scopelopsis_multipunctatus_RH1x1" totalcount="2" value="01100111001101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_D_cDNA" taxon="Diretmoides_pauciradiatus_RH1_D_cDNA" totalcount="2" value="01100001101101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_D" taxon="Diretmoides_pauciradiatus_RH1_D" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_D" taxon="Diretmus_argenteus_RH1_D" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_C" taxon="Diretmus_argenteus_RH1_C" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_E_pseudogen" taxon="Diretmus_argenteus_RH1_E_pseudogen" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_B" taxon="Diretmus_argenteus_RH1_B" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_A" taxon="Diretmus_argenteus_RH1_A" totalcount="2" value="01100001101101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_FabGab_cDNA" taxon="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" totalcount="2" value="01100001111101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_FG" taxon="Diretmoides_pauciradiatus_RH1_FG" totalcount="2" value="01100001111101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Fa" taxon="Diretmus_argenteus_RH1_Fa" totalcount="2" value="01100001111101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Fb" taxon="Diretmus_argenteus_RH1_Fb" totalcount="2" value="01100001111101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ga" taxon="Diretmus_argenteus_RH1_Ga" totalcount="2" value="01100001111101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Gb" taxon="Diretmus_argenteus_RH1_Gb" totalcount="2" value="01100001111101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_HabIa_cDNA" taxon="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" totalcount="2" value="01100001101101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_HFG" taxon="Diretmoides_pauciradiatus_RH1_HFG" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ha" taxon="Diretmus_argenteus_RH1_Ha" totalcount="2" value="01100001100101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Hb" taxon="Diretmus_argenteus_RH1_Hb" totalcount="2" value="01100001100101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Hc" taxon="Diretmus_argenteus_RH1_Hc" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Hd" taxon="Diretmus_argenteus_RH1_Hd" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_He_pseudogene" taxon="Diretmus_argenteus_RH1_He_pseudogene" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ia" taxon="Diretmus_argenteus_RH1_Ia" totalcount="2" value="01100001101101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_S_cDNA" taxon="Diretmoides_pauciradiatus_RH1_S_cDNA" totalcount="2" value="01100001101101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_SV" taxon="Diretmoides_pauciradiatus_RH1_SV" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_S" taxon="Diretmus_argenteus_RH1_S" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_V" taxon="Diretmus_argenteus_RH1_V" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_Ib_part" taxon="Diretmus_argenteus_RH1_Ib_part" totalcount="2" value="01101001101101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_W_cDNA" taxon="Diretmoides_pauciradiatus_RH1_W_cDNA" totalcount="2" value="01100001101101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_W" taxon="Diretmoides_pauciradiatus_RH1_W" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_W" taxon="Diretmus_argenteus_RH1_W" totalcount="2" value="01100001101101"/>
-        <sequence id="seq_Diretmoides_pauciradiatus_RH1_T_cDNA" taxon="Diretmoides_pauciradiatus_RH1_T_cDNA" totalcount="2" value="01100001101101"/>
+        <sequence id="seq_Diretmoides_pauciradiatus_RH1_T" taxon="Diretmoides_pauciradiatus_RH1_T" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Diretmus_argenteus_RH1_T" taxon="Diretmus_argenteus_RH1_T" totalcount="2" value="01100001101101"/>
         <sequence id="seq_Cyprinus_carpio_RH1_01_like_pseud" taxon="Cyprinus_carpio_RH1_01_like_pseud" totalcount="2" value="01100111001101"/>
         <sequence id="seq_Cyprinus_carpio_RH1_02_like" taxon="Cyprinus_carpio_RH1_02_like" totalcount="2" value="01100111001101"/>
@@ -235,39 +235,39 @@
         <taxon id="Lampris_guttatus_RH1" spec="Taxon"/>
         <taxon id="Regalecus_glesne_RH1" spec="Taxon"/>
         <taxon id="Polymixia_japonica_RH1" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_COP_cDNA" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_U_cDNA" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_MUb" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_MUa" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_MUc" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ma" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ua" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ub_RH1" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ud" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Uc" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Mb" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_STO_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_La" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_Mu" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_Lb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_La" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Lb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Lc" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Za" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Zb" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_Ka" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_K" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_VLK_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_Kb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ja" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Jb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_O" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_PES_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_KOJ" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_N" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_X_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_OJa" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_OJb" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_X" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Xa" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Xb" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_Y" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Y" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_MOC_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_P" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_P" spec="Taxon"/>
         <taxon id="Parasudis_frasserbrunneri_RH1" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Q_pseudogene" spec="Taxon"/>
@@ -390,31 +390,31 @@
         <taxon id="Ceratoscopelus_warmingii_RH1x1" spec="Taxon"/>
         <taxon id="Ceratoscopelus_warmingii_RH1x2" spec="Taxon"/>
         <taxon id="Scopelopsis_multipunctatus_RH1x1" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_D_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_D" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_D" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_C" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_E_pseudogen" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_B" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_A" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_FG" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Fa" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Fb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ga" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Gb" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_HFG" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ha" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Hb" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Hc" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Hd" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_He_pseudogene" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ia" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_S_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_SV" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_S" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_V" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_Ib_part" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_W_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_W" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_W" spec="Taxon"/>
-        <taxon id="Diretmoides_pauciradiatus_RH1_T_cDNA" spec="Taxon"/>
+        <taxon id="Diretmoides_pauciradiatus_RH1_T" spec="Taxon"/>
         <taxon id="Diretmus_argenteus_RH1_T" spec="Taxon"/>
         <taxon id="Cyprinus_carpio_RH1_01_like_pseud" spec="Taxon"/>
         <taxon id="Cyprinus_carpio_RH1_02_like" spec="Taxon"/>
@@ -462,7 +462,7 @@
         <init spec="beast.util.TreeParser" id="NewickTree.t:indels"
             initial="@tree.t:Species" taxa="@indels"
             IsLabelledNewick="true"
-        newick="(Lepisosteus_oculatus_RH1:274.049738,(((((((((((((Acanthochaenus_luetkenii_RH1:32.378116,(Cetomimidae_RH1:4.783249,(Cetomimus_sp_RH1_gen01:2.594247,Cetomimus_sp_RH1_gen02:2.594247):2.189002):27.594867):10.989895,Rondeletia_loricata_RH1:43.368011):46.41118,(Beryx_splendens_RH1:52.106497,Melamphaidae_26_RH1:52.106497):37.672694):9.649226,((Anoplogaster_cornuta_RH1:28.474738,((Gephyroberyx_darwinii_RH1_gen01:15.881174,Hoplostethus_atlanticus_RH1:15.881174):7.93219,Monocentris_japonica_RH1:23.813364):4.661374):12.586449,((((((((((Diretmoides_pauciradiatus_RH1_COP_cDNA:3.149385,Diretmoides_pauciradiatus_RH1_ZLO_cDNA:3.149385):3.812685,Diretmoides_pauciradiatus_RH1_U_cDNA:6.96207):7.574883,(Diretmus_argenteus_RH1_Ma:11.186146,(((Diretmus_argenteus_RH1_Ua:1.912512,Diretmus_argenteus_RH1_Ub_RH1:1.912512):1.927363,Diretmus_argenteus_RH1_Ud:3.839875):3.486888,Diretmus_argenteus_RH1_Uc:7.326763):3.859383):3.350807):2.874831,Diretmus_argenteus_RH1_Mb:17.411784):4.687217,Diretmoides_pauciradiatus_RH1_KRK_part_cDNA:22.099002):1.891889,(Diretmus_argenteus_RH1_Za:7.860501,Diretmus_argenteus_RH1_Zb:7.860501):16.13039):3.243632,((Diretmoides_pauciradiatus_RH1_FUJ_cDNA:13.151613,Diretmoides_pauciradiatus_RH1_STO_cDNA:13.151613):6.555198,(Diretmus_argenteus_RH1_La:12.832098,(Diretmus_argenteus_RH1_Lb:4.676854,Diretmus_argenteus_RH1_Lc:4.676854):8.155244):6.874712):7.527712):4.412097,(((((Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA:8.116395,Diretmoides_pauciradiatus_RH1_VLK_cDNA:8.116395):5.235258,Diretmus_argenteus_RH1_K:13.351653):5.256619,(((Diretmus_argenteus_RH1_Ja:2.22942,Diretmus_argenteus_RH1_Jb:2.22942):2.579291,Diretmus_argenteus_RH1_O:4.808712):8.160429,(Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA:5.361826,Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen:5.361826):7.607316):5.639131):3.804492,Diretmoides_pauciradiatus_RH1_PES_cDNA:22.412764):5.12901,(Diretmus_argenteus_RH1_N:22.369224,((Diretmoides_pauciradiatus_RH1_X_cDNA:9.691372,(Diretmus_argenteus_RH1_Xa:2.743972,Diretmus_argenteus_RH1_Xb:2.743972):6.947401):8.449805,(Diretmoides_pauciradiatus_RH1_MOC_cDNA:7.451916,Diretmus_argenteus_RH1_P:7.451916):10.689261):4.228047):5.17255):4.104846):2.681358,(Diretmoides_pauciradiatus_RH1_MRKc_cDNA:19.648073,Diretmus_argenteus_RH1_Y:19.648073):14.679905):6.253151,((Diretmus_argenteus_RH1_Q_pseudogene:12.34377,Diretmus_argenteus_RH1_R_pseudogene:12.34377):23.708118,(((Diretmoides_pauciradiatus_RH1_D_cDNA:9.359709,Diretmus_argenteus_RH1_D:9.359709):10.299381,(((Diretmus_argenteus_RH1_C:8.225684,Diretmus_argenteus_RH1_E_pseudogen:8.225683):3.310015,Diretmus_argenteus_RH1_A:11.535699):3.535284,Diretmus_argenteus_RH1_B:15.070983):4.588107):9.233706,((((Diretmoides_pauciradiatus_RH1_FabGab_cDNA:12.821847,((Diretmus_argenteus_RH1_Fa:3.01703,Diretmus_argenteus_RH1_Fb:3.01703):5.315149,(Diretmus_argenteus_RH1_Ga:2.578348,Diretmus_argenteus_RH1_Gb:2.578348):5.753831):4.489669):6.618811,(Diretmoides_pauciradiatus_RH1_HabIa_cDNA:15.708043,((((Diretmus_argenteus_RH1_Ha:3.461017,Diretmus_argenteus_RH1_He_pseudogene:3.461017):2.551809,Diretmus_argenteus_RH1_Hb:6.012826):2.916103,(Diretmus_argenteus_RH1_Hc:2.326773,Diretmus_argenteus_RH1_Hd:2.326773):6.602155):3.122991,Diretmus_argenteus_RH1_Ia:12.05192):3.656123):3.732615):3.328895,((Diretmoides_pauciradiatus_RH1_S_cDNA:11.912305,(Diretmus_argenteus_RH1_V:8.309559,Diretmus_argenteus_RH1_Ib_part:8.309559):3.602745):4.096521,Diretmus_argenteus_RH1_S:16.008826):6.760726):3.45726,((Diretmoides_pauciradiatus_RH1_W_cDNA:9.365238,Diretmus_argenteus_RH1_W:9.365238):11.43445,(Diretmoides_pauciradiatus_RH1_T_cDNA:8.013449,Diretmus_argenteus_RH1_T:8.013449):12.786239):5.427125):2.665983):7.159092):4.529241):0.480059):58.36723):16.618309,(Lampris_guttatus_RH1:46.640434,Regalecus_glesne_RH1:46.640434):69.406292):12.018632,(((((((((Amphilophus_citrinellus_RH1:55.132296,((((Astatotilapia_burtoni_RH1:1.336772,Maylandia_zebra_RH1:1.336772):3.714587,Pundamilia_nyererei_RH1:5.051359):4.358365,Neolamprologus_brichardi_RH1:9.409724):9.987719,Oreochromis_niloticus_RH1:19.397442):35.734854):18.806868,(Chromis_chromis_RH1:35.183844,Stegastes_partitus_RH1:35.183844):38.75532):7.5405,(((((Cyprinodon_nevadensis_RH1:6.475344,Cyprinodon_variegatus_RH1:6.475344):23.609305,((Poecilia_formosa_RH1:7.093573,Xiphophorus_maculatus_RH1:7.093573):4.177291,Poecilia_reticulata_RH1:11.270864):18.813784):12.306849,Fundulus_heteroclitus_RH1:42.391498):24.986506,Oryzias_latipes_RH1:67.378004):6.474228,(Parablennius_parvicornis_RH1:33.164867,Plagiotremus_rhinorhynchos_RH1:33.164867):40.687366):7.627432):5.002036,Pseudochromis_fuscus_RH1:86.4817):10.194349,(((((Caranx_ignobilis_RH1:4.50163,Caranx_melampygus_RH1:4.50163):3.650255,Selene_dorsalis_RH1:8.151885):41.565347,Trachinotus_blochii_RH1:49.717232):23.991392,(Pseudopleuronectes_yokohamae_RH1:58.010253,Cynoglossus_semilaevis_RH1:58.010253):15.698371):15.836451,((Anabas_testudineus_RH1:48.573456,Helostoma_temminckii_RH1:48.573456):26.934124,Monopterus_albus_RH1:75.50758):14.037494):7.130975):3.517666,((((Dicentrarchus_labrax_RH1:53.545042,(Sparus_aurata_RH1:17.023693,Spondyliosoma_cantharus_RH1:17.023693):36.521349):25.123886,Symphodus_melops_RH1:78.668928):17.762602,(((Epinephelus_aeneus_RH1:75.66211,((((Sebastes_nigrocinctus_RH1:7.707242,Sebastes_norvegicus_RH1:7.707242):41.561798,(Anoplopoma_fimbrei_RH1:29.874176,(Myoxocephalus_scorpius_RH1:20.236848,Gasterosteus_aculeatus_RH1_corrected:20.236848):9.637328):19.394864):12.010639,(Chaenocephalus_aceratus_RH1:8.472598,Notothenia_coriiceps_RH1:8.472598):52.807081):6.556958,Perca_fluviatilis_RH1:67.836637):7.825473):8.012425,Larimichthys_crocea_RH1:83.674534):6.710737,((Rhinecanthus_aculeatus_RH1:70.463308,((Takifugu_flavidus_RH1:2.374322,Takifugu_rubripes_RH1:2.374322):30.062428,Tetraodon_nigroviridis_RH1:32.436749):38.026559):6.589095,(Antennarius_striatus_RH1:63.986569,(Lophius_piscatorius_RH1:1.443794,Lophius_vailantii_RH1:1.443794):62.542775):13.065834):13.332869):6.046258):1.389468,(((((Auxis_rochei_RH1:9.358744,(Thunnus_albacares_RH1:0.513494,Thunnus_orientalis_RH1:0.513494):8.84525):16.66269,Brama_brama_RH1:26.021434):21.806795,Pampus_argenteus_RH1:47.828229):35.953247,Syngnathus_typhle_RH1:83.781476):6.435068,(Chatrabus_melanurus_RH1:42.158452,Opsanus_beta_RH1:42.158452):48.058092):7.604453):2.372717):7.418706,((Brotula_barbata_RH1:46.579671,Lamprogrammus_exutus_RH1:46.579671):29.185658,Carapus_acus_RH1:75.76533):31.847092):4.994718,((Amblygobius_phalaena_RH1:29.037553,Lesueurigobius_sanzoi_RH1:29.037553):30.241851,((Boleophthalmus_pectinirostris_RH1:19.023849,Scartelaos_histophorus_RH1:19.023849):14.68668,(Periophthalmodon_schlosseri_RH1:16.434762,Periophthalmus_magnuspinnatus_RH1:16.434762):17.275768):25.568874):53.327737):6.632191,((Holocentrus_rufus_RH1:17.170723,Neoniphon_sammara_RH1:17.170723):34.723573,(Myripristis_berndti_RH1:18.00801,Myripristis_jacobus_RH1:18.00801):33.886287):67.345035):8.826026):3.216069,((Polymixia_japonica_RH1:100.394397,Percopsis_transmontana_RH1:100.394397):22.648129,((Cyttopsis_roseus_RH1:30.336452,Zeus_faber_RH1:30.336452):74.721639,((Stylephorus_chordatus_RH1_gen01:51.267831,((Stylephorus_chordatus_RH1_gen02:10.903101,Stylephorus_chordatus_RH1_gen03:10.903101):18.559494,((Stylephorus_chordatus_RH1_gen04:3.316807,Stylephorus_chordatus_RH1_gen05:3.316807):12.633751,Stylephorus_chordatus_RH1_gen06:15.950558):13.512037):21.805236):31.723386,(((((Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles:2.363676,Bathygadus_melanobranchus_RH1_gen03_coding:2.363676):6.729115,Bathygadus_melanobranchus_RH1_gen02_coding:9.092791):25.210718,Mora_moro_RH1:34.30351):13.698411,(Merluccius_polli_RH1:33.822504,Macrourus_berglax_RH1:33.822504):14.179416):8.868711,(Brosme_brosme_RH1:34.469496,(Gadus_morhua_RH1:18.136277,Trisopterus_minutus_RH1:18.136277):16.333219):22.401135):26.120586):22.066874):17.984435):8.2389):5.389484,(((((((Benthosema_glaciale_RH1_1:4.161001,Benthosema_glaciale_RH1_4:4.161001):7.797604,Benthosema_glaciale_RH1_2:11.958605):12.907516,Benthosema_glaciale_RH1_3:24.86612):11.739234,Electrona_risso_RH1x1:36.605354):14.809078,(Benthosema_glaciale_RH1_5:34.961627,(Benthosema_pterotum_RH1_1:10.552303,Benthosema_pterotum_RH2_2_cons:10.552303):24.409324):16.452805):19.586377,(Ceratoscopelus_warmingii_RH1x1:20.365773,Ceratoscopelus_warmingii_RH1x2:20.365773):50.635037):14.435243,Scopelopsis_multipunctatus_RH1x1:85.436052):51.234858):7.108532,(Parasudis_frasserbrunneri_RH1:98.086013,(Synodus_sp_RH1:15.575777,Synodus_synodus_RH1:15.575777):82.510236):45.69343):4.501132,Guentherus_altivela_RH1:148.280575):25.08845,((Borostomias_antarcticus_RH1:100.391622,Osmerus_eperlanus_RH1:100.391622):29.194261,Salmo_salar_RH1c:129.585883):43.783142):20.349342,((((Astyanax_mexicanus_RH1_02:60.295221,Electrophorus_electricus_RH1:60.295221):60.218137,(((Cyprinus_carpio_RH1_03:7.921316,Cyprinus_carpio_RH1_04:7.921316):32.541773,Danio_rerio_RH1_01:40.463088):16.190365,Pimephales_promelas_RH1_01:56.653454):63.859904):38.807192,Clupea_harengus_RH1_01:159.32055):16.201728,(Clupea_harengus_RH1_02:159.320284,((((Cyprinus_carpio_RH1_01_like_pseud:24.476334,Cyprinus_carpio_RH1_02_like:24.476334):15.034777,Danio_rerio_RH1_02:39.511111):17.13796,Pimephales_promelas_RH1_02:56.649071):63.860465,Astyanax_mexicanus_RH1_01:120.509537):38.810748):16.201994):18.196089):25.230556,((Anguilla_anguilla_RH1_01:7.565584,Anguilla_japonica_RH1_01:7.565584):186.297751,((Anguilla_anguilla_RH1_02:5.770887,Anguilla_japonica_RH1_02:5.770887):120.687902,Scleropages_formosa_RH1:126.458789):67.404546):25.085589):55.100814)"/>
+        newick="(Lepisosteus_oculatus_RH1:274.049738,(((((((((((((Acanthochaenus_luetkenii_RH1:32.378116,(Cetomimidae_RH1:4.783249,(Cetomimus_sp_RH1_gen01:2.594247,Cetomimus_sp_RH1_gen02:2.594247):2.189002):27.594867):10.989895,Rondeletia_loricata_RH1:43.368011):46.41118,(Beryx_splendens_RH1:52.106497,Melamphaidae_26_RH1:52.106497):37.672694):9.649226,((Anoplogaster_cornuta_RH1:28.474738,((Gephyroberyx_darwinii_RH1_gen01:15.881174,Hoplostethus_atlanticus_RH1:15.881174):7.93219,Monocentris_japonica_RH1:23.813364):4.661374):12.586449,((((((((((Diretmoides_pauciradiatus_RH1_MUb:3.149385,Diretmoides_pauciradiatus_RH1_MUc:3.149385):3.812685,Diretmoides_pauciradiatus_RH1_MUa:6.96207):7.574883,(Diretmus_argenteus_RH1_Ma:11.186146,(((Diretmus_argenteus_RH1_Ua:1.912512,Diretmus_argenteus_RH1_Ub_RH1:1.912512):1.927363,Diretmus_argenteus_RH1_Ud:3.839875):3.486888,Diretmus_argenteus_RH1_Uc:7.326763):3.859383):3.350807):2.874831,Diretmus_argenteus_RH1_Mb:17.411784):4.687217,Diretmoides_pauciradiatus_RH1_Mu:22.099002):1.891889,(Diretmus_argenteus_RH1_Za:7.860501,Diretmus_argenteus_RH1_Zb:7.860501):16.13039):3.243632,((Diretmoides_pauciradiatus_RH1_La:13.151613,Diretmoides_pauciradiatus_RH1_Lb:13.151613):6.555198,(Diretmus_argenteus_RH1_La:12.832098,(Diretmus_argenteus_RH1_Lb:4.676854,Diretmus_argenteus_RH1_Lc:4.676854):8.155244):6.874712):7.527712):4.412097,(((((Diretmoides_pauciradiatus_RH1_Ka:8.116395,Diretmoides_pauciradiatus_RH1_Kb:8.116395):5.235258,Diretmus_argenteus_RH1_K:13.351653):5.256619,(((Diretmus_argenteus_RH1_Ja:2.22942,Diretmus_argenteus_RH1_Jb:2.22942):2.579291,Diretmus_argenteus_RH1_O:4.808712):8.160429,(Diretmoides_pauciradiatus_RH1_OJa:5.361826,Diretmoides_pauciradiatus_RH1_OJb:5.361826):7.607316):5.639131):3.804492,Diretmoides_pauciradiatus_RH1_KOJ:22.412764):5.12901,(Diretmus_argenteus_RH1_N:22.369224,((Diretmoides_pauciradiatus_RH1_X:9.691372,(Diretmus_argenteus_RH1_Xa:2.743972,Diretmus_argenteus_RH1_Xb:2.743972):6.947401):8.449805,(Diretmoides_pauciradiatus_RH1_P:7.451916,Diretmus_argenteus_RH1_P:7.451916):10.689261):4.228047):5.17255):4.104846):2.681358,(Diretmoides_pauciradiatus_RH1_Y:19.648073,Diretmus_argenteus_RH1_Y:19.648073):14.679905):6.253151,((Diretmus_argenteus_RH1_Q_pseudogene:12.34377,Diretmus_argenteus_RH1_R_pseudogene:12.34377):23.708118,(((Diretmoides_pauciradiatus_RH1_D:9.359709,Diretmus_argenteus_RH1_D:9.359709):10.299381,(((Diretmus_argenteus_RH1_C:8.225684,Diretmus_argenteus_RH1_E_pseudogen:8.225683):3.310015,Diretmus_argenteus_RH1_A:11.535699):3.535284,Diretmus_argenteus_RH1_B:15.070983):4.588107):9.233706,((((Diretmoides_pauciradiatus_RH1_FG:12.821847,((Diretmus_argenteus_RH1_Fa:3.01703,Diretmus_argenteus_RH1_Fb:3.01703):5.315149,(Diretmus_argenteus_RH1_Ga:2.578348,Diretmus_argenteus_RH1_Gb:2.578348):5.753831):4.489669):6.618811,(Diretmoides_pauciradiatus_RH1_HFG:15.708043,((((Diretmus_argenteus_RH1_Ha:3.461017,Diretmus_argenteus_RH1_He_pseudogene:3.461017):2.551809,Diretmus_argenteus_RH1_Hb:6.012826):2.916103,(Diretmus_argenteus_RH1_Hc:2.326773,Diretmus_argenteus_RH1_Hd:2.326773):6.602155):3.122991,Diretmus_argenteus_RH1_Ia:12.05192):3.656123):3.732615):3.328895,((Diretmoides_pauciradiatus_RH1_SV:11.912305,(Diretmus_argenteus_RH1_V:8.309559,Diretmus_argenteus_RH1_Ib_part:8.309559):3.602745):4.096521,Diretmus_argenteus_RH1_S:16.008826):6.760726):3.45726,((Diretmoides_pauciradiatus_RH1_W:9.365238,Diretmus_argenteus_RH1_W:9.365238):11.43445,(Diretmoides_pauciradiatus_RH1_T:8.013449,Diretmus_argenteus_RH1_T:8.013449):12.786239):5.427125):2.665983):7.159092):4.529241):0.480059):58.36723):16.618309,(Lampris_guttatus_RH1:46.640434,Regalecus_glesne_RH1:46.640434):69.406292):12.018632,(((((((((Amphilophus_citrinellus_RH1:55.132296,((((Astatotilapia_burtoni_RH1:1.336772,Maylandia_zebra_RH1:1.336772):3.714587,Pundamilia_nyererei_RH1:5.051359):4.358365,Neolamprologus_brichardi_RH1:9.409724):9.987719,Oreochromis_niloticus_RH1:19.397442):35.734854):18.806868,(Chromis_chromis_RH1:35.183844,Stegastes_partitus_RH1:35.183844):38.75532):7.5405,(((((Cyprinodon_nevadensis_RH1:6.475344,Cyprinodon_variegatus_RH1:6.475344):23.609305,((Poecilia_formosa_RH1:7.093573,Xiphophorus_maculatus_RH1:7.093573):4.177291,Poecilia_reticulata_RH1:11.270864):18.813784):12.306849,Fundulus_heteroclitus_RH1:42.391498):24.986506,Oryzias_latipes_RH1:67.378004):6.474228,(Parablennius_parvicornis_RH1:33.164867,Plagiotremus_rhinorhynchos_RH1:33.164867):40.687366):7.627432):5.002036,Pseudochromis_fuscus_RH1:86.4817):10.194349,(((((Caranx_ignobilis_RH1:4.50163,Caranx_melampygus_RH1:4.50163):3.650255,Selene_dorsalis_RH1:8.151885):41.565347,Trachinotus_blochii_RH1:49.717232):23.991392,(Pseudopleuronectes_yokohamae_RH1:58.010253,Cynoglossus_semilaevis_RH1:58.010253):15.698371):15.836451,((Anabas_testudineus_RH1:48.573456,Helostoma_temminckii_RH1:48.573456):26.934124,Monopterus_albus_RH1:75.50758):14.037494):7.130975):3.517666,((((Dicentrarchus_labrax_RH1:53.545042,(Sparus_aurata_RH1:17.023693,Spondyliosoma_cantharus_RH1:17.023693):36.521349):25.123886,Symphodus_melops_RH1:78.668928):17.762602,(((Epinephelus_aeneus_RH1:75.66211,((((Sebastes_nigrocinctus_RH1:7.707242,Sebastes_norvegicus_RH1:7.707242):41.561798,(Anoplopoma_fimbrei_RH1:29.874176,(Myoxocephalus_scorpius_RH1:20.236848,Gasterosteus_aculeatus_RH1_corrected:20.236848):9.637328):19.394864):12.010639,(Chaenocephalus_aceratus_RH1:8.472598,Notothenia_coriiceps_RH1:8.472598):52.807081):6.556958,Perca_fluviatilis_RH1:67.836637):7.825473):8.012425,Larimichthys_crocea_RH1:83.674534):6.710737,((Rhinecanthus_aculeatus_RH1:70.463308,((Takifugu_flavidus_RH1:2.374322,Takifugu_rubripes_RH1:2.374322):30.062428,Tetraodon_nigroviridis_RH1:32.436749):38.026559):6.589095,(Antennarius_striatus_RH1:63.986569,(Lophius_piscatorius_RH1:1.443794,Lophius_vailantii_RH1:1.443794):62.542775):13.065834):13.332869):6.046258):1.389468,(((((Auxis_rochei_RH1:9.358744,(Thunnus_albacares_RH1:0.513494,Thunnus_orientalis_RH1:0.513494):8.84525):16.66269,Brama_brama_RH1:26.021434):21.806795,Pampus_argenteus_RH1:47.828229):35.953247,Syngnathus_typhle_RH1:83.781476):6.435068,(Chatrabus_melanurus_RH1:42.158452,Opsanus_beta_RH1:42.158452):48.058092):7.604453):2.372717):7.418706,((Brotula_barbata_RH1:46.579671,Lamprogrammus_exutus_RH1:46.579671):29.185658,Carapus_acus_RH1:75.76533):31.847092):4.994718,((Amblygobius_phalaena_RH1:29.037553,Lesueurigobius_sanzoi_RH1:29.037553):30.241851,((Boleophthalmus_pectinirostris_RH1:19.023849,Scartelaos_histophorus_RH1:19.023849):14.68668,(Periophthalmodon_schlosseri_RH1:16.434762,Periophthalmus_magnuspinnatus_RH1:16.434762):17.275768):25.568874):53.327737):6.632191,((Holocentrus_rufus_RH1:17.170723,Neoniphon_sammara_RH1:17.170723):34.723573,(Myripristis_berndti_RH1:18.00801,Myripristis_jacobus_RH1:18.00801):33.886287):67.345035):8.826026):3.216069,((Polymixia_japonica_RH1:100.394397,Percopsis_transmontana_RH1:100.394397):22.648129,((Cyttopsis_roseus_RH1:30.336452,Zeus_faber_RH1:30.336452):74.721639,((Stylephorus_chordatus_RH1_gen01:51.267831,((Stylephorus_chordatus_RH1_gen02:10.903101,Stylephorus_chordatus_RH1_gen03:10.903101):18.559494,((Stylephorus_chordatus_RH1_gen04:3.316807,Stylephorus_chordatus_RH1_gen05:3.316807):12.633751,Stylephorus_chordatus_RH1_gen06:15.950558):13.512037):21.805236):31.723386,(((((Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles:2.363676,Bathygadus_melanobranchus_RH1_gen03_coding:2.363676):6.729115,Bathygadus_melanobranchus_RH1_gen02_coding:9.092791):25.210718,Mora_moro_RH1:34.30351):13.698411,(Merluccius_polli_RH1:33.822504,Macrourus_berglax_RH1:33.822504):14.179416):8.868711,(Brosme_brosme_RH1:34.469496,(Gadus_morhua_RH1:18.136277,Trisopterus_minutus_RH1:18.136277):16.333219):22.401135):26.120586):22.066874):17.984435):8.2389):5.389484,(((((((Benthosema_glaciale_RH1_1:4.161001,Benthosema_glaciale_RH1_4:4.161001):7.797604,Benthosema_glaciale_RH1_2:11.958605):12.907516,Benthosema_glaciale_RH1_3:24.86612):11.739234,Electrona_risso_RH1x1:36.605354):14.809078,(Benthosema_glaciale_RH1_5:34.961627,(Benthosema_pterotum_RH1_1:10.552303,Benthosema_pterotum_RH2_2_cons:10.552303):24.409324):16.452805):19.586377,(Ceratoscopelus_warmingii_RH1x1:20.365773,Ceratoscopelus_warmingii_RH1x2:20.365773):50.635037):14.435243,Scopelopsis_multipunctatus_RH1x1:85.436052):51.234858):7.108532,(Parasudis_frasserbrunneri_RH1:98.086013,(Synodus_sp_RH1:15.575777,Synodus_synodus_RH1:15.575777):82.510236):45.69343):4.501132,Guentherus_altivela_RH1:148.280575):25.08845,((Borostomias_antarcticus_RH1:100.391622,Osmerus_eperlanus_RH1:100.391622):29.194261,Salmo_salar_RH1c:129.585883):43.783142):20.349342,((((Astyanax_mexicanus_RH1_02:60.295221,Electrophorus_electricus_RH1:60.295221):60.218137,(((Cyprinus_carpio_RH1_03:7.921316,Cyprinus_carpio_RH1_04:7.921316):32.541773,Danio_rerio_RH1_01:40.463088):16.190365,Pimephales_promelas_RH1_01:56.653454):63.859904):38.807192,Clupea_harengus_RH1_01:159.32055):16.201728,(Clupea_harengus_RH1_02:159.320284,((((Cyprinus_carpio_RH1_01_like_pseud:24.476334,Cyprinus_carpio_RH1_02_like:24.476334):15.034777,Danio_rerio_RH1_02:39.511111):17.13796,Pimephales_promelas_RH1_02:56.649071):63.860465,Astyanax_mexicanus_RH1_01:120.509537):38.810748):16.201994):18.196089):25.230556,((Anguilla_anguilla_RH1_01:7.565584,Anguilla_japonica_RH1_01:7.565584):186.297751,((Anguilla_anguilla_RH1_02:5.770887,Anguilla_japonica_RH1_02:5.770887):120.687902,Scleropages_formosa_RH1:126.458789):67.404546):25.085589):55.100814)"/>
 
         <!-- The posterior -->
         <distribution id="posterior" spec="util.CompoundDistribution">
@@ -616,7 +616,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -633,9 +633,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -646,17 +646,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -675,14 +675,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -692,11 +692,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -707,7 +707,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -721,8 +721,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -816,7 +816,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -833,9 +833,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -846,17 +846,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -875,14 +875,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -892,11 +892,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -907,7 +907,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -921,8 +921,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -1014,7 +1014,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -1031,9 +1031,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -1044,17 +1044,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -1073,14 +1073,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -1090,11 +1090,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -1105,7 +1105,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -1119,8 +1119,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -1234,7 +1234,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -1251,9 +1251,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -1264,17 +1264,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -1293,14 +1293,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -1310,11 +1310,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -1325,7 +1325,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -1339,8 +1339,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -1459,7 +1459,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -1476,9 +1476,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -1489,17 +1489,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -1518,14 +1518,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -1535,11 +1535,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -1550,7 +1550,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -1564,8 +1564,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -1670,7 +1670,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -1687,9 +1687,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -1700,17 +1700,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -1729,14 +1729,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -1746,11 +1746,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -1761,7 +1761,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -1775,8 +1775,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -1876,7 +1876,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -1893,9 +1893,9 @@
                     <taxon idref="Opsanus_beta_RH1" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen01_coding_cons_both_alleles" />
                     <taxon idref="Bathygadus_melanobranchus_RH1_gen03_coding" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -1906,17 +1906,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -1935,14 +1935,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -1952,11 +1952,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -1967,7 +1967,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -1981,8 +1981,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -2074,7 +2074,7 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
@@ -2086,9 +2086,9 @@
                     <taxon idref="Syngnathus_typhle_RH1" />
                     <taxon idref="Chatrabus_melanurus_RH1" />
                     <taxon idref="Opsanus_beta_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Trachinotus_blochii_RH1" />
@@ -2099,17 +2099,17 @@
                     <taxon idref="Dicentrarchus_labrax_RH1" />
                     <taxon idref="Larimichthys_crocea_RH1" />
                     <taxon idref="Pampus_argenteus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Amphilophus_citrinellus_RH1" />
                     <taxon idref="Chromis_chromis_RH1" />
@@ -2128,14 +2128,14 @@
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Oreochromis_niloticus_RH1" />
                     <taxon idref="Fundulus_heteroclitus_RH1" />
                     <taxon idref="Caranx_ignobilis_RH1" />
@@ -2145,11 +2145,11 @@
                     <taxon idref="Lophius_piscatorius_RH1" />
                     <taxon idref="Lophius_vailantii_RH1" />
                     <taxon idref="Auxis_rochei_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
@@ -2160,7 +2160,7 @@
                     <taxon idref="Takifugu_rubripes_RH1" />
                     <taxon idref="Thunnus_albacares_RH1" />
                     <taxon idref="Thunnus_orientalis_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -2174,8 +2174,8 @@
                     <taxon idref="Poecilia_reticulata_RH1" />
                     <taxon idref="Chaenocephalus_aceratus_RH1" />
                     <taxon idref="Notothenia_coriiceps_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -2268,52 +2268,52 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
                     <taxon idref="Cetomimus_sp_RH1_gen01" />
                     <taxon idref="Cetomimus_sp_RH1_gen02" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -2321,8 +2321,8 @@
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ga" />
                     <taxon idref="Diretmus_argenteus_RH1_Gb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -2475,52 +2475,52 @@
                     <taxon idref="Cetomimidae_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
                     <taxon idref="Cetomimus_sp_RH1_gen01" />
                     <taxon idref="Cetomimus_sp_RH1_gen02" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -2528,8 +2528,8 @@
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ga" />
                     <taxon idref="Diretmus_argenteus_RH1_Gb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -2700,50 +2700,50 @@
                     <taxon idref="Monocentris_japonica_RH1" />
                     <taxon idref="Gephyroberyx_darwinii_RH1_gen01" />
                     <taxon idref="Hoplostethus_atlanticus_RH1" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -2751,8 +2751,8 @@
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ga" />
                     <taxon idref="Diretmus_argenteus_RH1_Gb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -2935,50 +2935,50 @@
         <logger id="b95_indels" fileName="reconstructions/b95.log" logEvery="1000">
             <log id="AncestralStateLogger_b95" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b95">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
@@ -2986,8 +2986,8 @@
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ga" />
                     <taxon idref="Diretmus_argenteus_RH1_Gb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -3152,36 +3152,36 @@
         <logger id="b118_indels" fileName="reconstructions/b118.log" logEvery="1000">
             <log id="AncestralStateLogger_b118" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b118">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -3194,20 +3194,20 @@
                 <taxonset spec='TaxonSet' id="b119">
                     <taxon idref="Diretmus_argenteus_RH1_Q_pseudogene" />
                     <taxon idref="Diretmus_argenteus_RH1_R_pseudogene" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
@@ -3386,34 +3386,34 @@
         <logger id="b140_indels" fileName="reconstructions/b140.log" logEvery="1000">
             <log id="AncestralStateLogger_b140" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b140">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -3424,7 +3424,7 @@
         <logger id="b141_indels" fileName="reconstructions/b141.log" logEvery="1000">
             <log id="AncestralStateLogger_b141" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b141">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKc_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Y" />
                     <taxon idref="Diretmus_argenteus_RH1_Y" />
                 </taxonset>
             </log>
@@ -3440,20 +3440,20 @@
         <logger id="b143_indels" fileName="reconstructions/b143.log" logEvery="1000">
             <log id="AncestralStateLogger_b143" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b143">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_C" />
                     <taxon idref="Diretmus_argenteus_RH1_E_pseudogen" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
@@ -3577,19 +3577,19 @@
         <logger id="b170_indels" fileName="reconstructions/b170.log" logEvery="1000">
             <log id="AncestralStateLogger_b170" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b170">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -3600,17 +3600,17 @@
         <logger id="b171_indels" fileName="reconstructions/b171.log" logEvery="1000">
             <log id="AncestralStateLogger_b171" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b171">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_N" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
@@ -3621,7 +3621,7 @@
         <logger id="b176_indels" fileName="reconstructions/b176.log" logEvery="1000">
             <log id="AncestralStateLogger_b176" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b176">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_B" />
                     <taxon idref="Diretmus_argenteus_RH1_A" />
@@ -3634,13 +3634,13 @@
             <log id="AncestralStateLogger_b177" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b177">
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
@@ -3764,14 +3764,14 @@
         <logger id="b192_indels" fileName="reconstructions/b192.log" logEvery="1000">
             <log id="AncestralStateLogger_b192" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b192">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Za" />
                     <taxon idref="Diretmus_argenteus_RH1_Zb" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -3782,8 +3782,8 @@
         <logger id="b193_indels" fileName="reconstructions/b193.log" logEvery="1000">
             <log id="AncestralStateLogger_b193" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b193">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_La" />
                     <taxon idref="Diretmus_argenteus_RH1_Lb" />
                     <taxon idref="Diretmus_argenteus_RH1_Lc" />
@@ -3793,13 +3793,13 @@
         <logger id="b194_indels" fileName="reconstructions/b194.log" logEvery="1000">
             <log id="AncestralStateLogger_b194" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b194">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_PES_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_KOJ" />
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
                 </taxonset>
@@ -3809,8 +3809,8 @@
             <log id="AncestralStateLogger_b195" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b195">
                     <taxon idref="Diretmus_argenteus_RH1_N" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
@@ -3820,7 +3820,7 @@
         <logger id="b196_indels" fileName="reconstructions/b196.log" logEvery="1000">
             <log id="AncestralStateLogger_b196" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b196">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_D_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_D" />
                     <taxon idref="Diretmus_argenteus_RH1_D" />
                 </taxonset>
             </log>
@@ -3839,9 +3839,9 @@
             <log id="AncestralStateLogger_b198" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b198">
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
@@ -3860,9 +3860,9 @@
         <logger id="b199_indels" fileName="reconstructions/b199.log" logEvery="1000">
             <log id="AncestralStateLogger_b199" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b199">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                 </taxonset>
             </log>
@@ -3974,12 +3974,12 @@
         <logger id="b216_indels" fileName="reconstructions/b216.log" logEvery="1000">
             <log id="AncestralStateLogger_b216" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b216">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_KRK_part_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Mu" />
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -3998,8 +3998,8 @@
         <logger id="b218_indels" fileName="reconstructions/b218.log" logEvery="1000">
             <log id="AncestralStateLogger_b218" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b218">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FUJ_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_STO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_La" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Lb" />
                 </taxonset>
             </log>
         </logger>
@@ -4016,11 +4016,11 @@
             <log id="AncestralStateLogger_b220" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b220">
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
                 </taxonset>
@@ -4029,8 +4029,8 @@
         <logger id="b223_indels" fileName="reconstructions/b223.log" logEvery="1000">
             <log id="AncestralStateLogger_b223" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b223">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
@@ -4049,8 +4049,8 @@
         <logger id="b228_indels" fileName="reconstructions/b228.log" logEvery="1000">
             <log id="AncestralStateLogger_b228" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b228">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_Fa" />
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
@@ -4068,7 +4068,7 @@
             <log id="AncestralStateLogger_b229" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b229">
                     <taxon idref="Diretmus_argenteus_RH1_S" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
                 </taxonset>
@@ -4077,7 +4077,7 @@
         <logger id="b230_indels" fileName="reconstructions/b230.log" logEvery="1000">
             <log id="AncestralStateLogger_b230" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b230">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_W_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_W" />
                     <taxon idref="Diretmus_argenteus_RH1_W" />
                 </taxonset>
             </log>
@@ -4085,7 +4085,7 @@
         <logger id="b231_indels" fileName="reconstructions/b231.log" logEvery="1000">
             <log id="AncestralStateLogger_b231" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b231">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_T_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_T" />
                     <taxon idref="Diretmus_argenteus_RH1_T" />
                 </taxonset>
             </log>
@@ -4196,10 +4196,10 @@
             <log id="AncestralStateLogger_b250" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b250">
                     <taxon idref="Diretmus_argenteus_RH1_Mb" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -4219,8 +4219,8 @@
             <log id="AncestralStateLogger_b258" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b258">
                     <taxon idref="Diretmus_argenteus_RH1_K" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                 </taxonset>
             </log>
         </logger>
@@ -4228,8 +4228,8 @@
             <log id="AncestralStateLogger_b259" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b259">
                     <taxon idref="Diretmus_argenteus_RH1_O" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ja" />
                     <taxon idref="Diretmus_argenteus_RH1_Jb" />
                 </taxonset>
@@ -4238,7 +4238,7 @@
         <logger id="b260_indels" fileName="reconstructions/b260.log" logEvery="1000">
             <log id="AncestralStateLogger_b260" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b260">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_X_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_X" />
                     <taxon idref="Diretmus_argenteus_RH1_Xa" />
                     <taxon idref="Diretmus_argenteus_RH1_Xb" />
                 </taxonset>
@@ -4247,7 +4247,7 @@
         <logger id="b261_indels" fileName="reconstructions/b261.log" logEvery="1000">
             <log id="AncestralStateLogger_b261" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b261">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MOC_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_P" />
                     <taxon idref="Diretmus_argenteus_RH1_P" />
                 </taxonset>
             </log>
@@ -4263,7 +4263,7 @@
         <logger id="b264_indels" fileName="reconstructions/b264.log" logEvery="1000">
             <log id="AncestralStateLogger_b264" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b264">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_FabGab_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_FG" />
                     <taxon idref="Diretmus_argenteus_RH1_Fa" />
                     <taxon idref="Diretmus_argenteus_RH1_Fb" />
                     <taxon idref="Diretmus_argenteus_RH1_Ga" />
@@ -4274,7 +4274,7 @@
         <logger id="b265_indels" fileName="reconstructions/b265.log" logEvery="1000">
             <log id="AncestralStateLogger_b265" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b265">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_HabIa_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_HFG" />
                     <taxon idref="Diretmus_argenteus_RH1_Ia" />
                     <taxon idref="Diretmus_argenteus_RH1_Hb" />
                     <taxon idref="Diretmus_argenteus_RH1_Hc" />
@@ -4287,7 +4287,7 @@
         <logger id="b266_indels" fileName="reconstructions/b266.log" logEvery="1000">
             <log id="AncestralStateLogger_b266" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b266">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_S_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_SV" />
                     <taxon idref="Diretmus_argenteus_RH1_V" />
                     <taxon idref="Diretmus_argenteus_RH1_Ib_part" />
                 </taxonset>
@@ -4367,10 +4367,10 @@
         <logger id="b292_indels" fileName="reconstructions/b292.log" logEvery="1000">
             <log id="AncestralStateLogger_b292" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b292">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
                     <taxon idref="Diretmus_argenteus_RH1_Ma" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                     <taxon idref="Diretmus_argenteus_RH1_Uc" />
                     <taxon idref="Diretmus_argenteus_RH1_Ud" />
                     <taxon idref="Diretmus_argenteus_RH1_Ua" />
@@ -4381,8 +4381,8 @@
         <logger id="b296_indels" fileName="reconstructions/b296.log" logEvery="1000">
             <log id="AncestralStateLogger_b296" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b296">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_VLK_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Ka" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_Kb" />
                 </taxonset>
             </log>
         </logger>
@@ -4398,8 +4398,8 @@
         <logger id="b299_indels" fileName="reconstructions/b299.log" logEvery="1000">
             <log id="AncestralStateLogger_b299" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b299">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_OJb" />
                 </taxonset>
             </log>
         </logger>
@@ -4494,9 +4494,9 @@
         <logger id="b326_indels" fileName="reconstructions/b326.log" logEvery="1000">
             <log id="AncestralStateLogger_b326" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b326">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_U_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUa" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                 </taxonset>
             </log>
         </logger>
@@ -4594,8 +4594,8 @@
         <logger id="b352_indels" fileName="reconstructions/b352.log" logEvery="1000">
             <log id="AncestralStateLogger_b352" spec="AncestralStateLogger" data="@indels" branchRateModel="@StrictClock.c:indels" tree="@tree.t:Species" siteModel="@morphSiteModel.s:indels2">
                 <taxonset spec='TaxonSet' id="b352">
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_COP_cDNA" />
-                    <taxon idref="Diretmoides_pauciradiatus_RH1_ZLO_cDNA" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUb" />
+                    <taxon idref="Diretmoides_pauciradiatus_RH1_MUc" />
                 </taxonset>
             </log>
         </logger>

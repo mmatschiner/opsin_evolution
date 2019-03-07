@@ -13,9 +13,8 @@ bModelTest - Directory for BEAST add-on package bModelTest (Bouckaert & Drummond
 treeannotator.jar - Jar archive of TreeAnnotator, distributed with BEAST.
 
 Input files in data directory:
-alignments/RH1_ourdata_20161023.nex - Alignment of RH1 sequences.
+alignments/rod_opsin.nex - Alignment of RH1 sequences.
 constraints/constraints.txt - Specification of age constraints for speciation nodes of the RH1 gene tree. These are derived from the time-calibrated species tree (see the directory for analysis 'phylogenetic_inference').
-101g_nucl_conc_28bfossils.combined.tre - Time-calibrated teleost species tree (result file of the analysis 'phylogenetic_inference', see the respective directory).
 
 Executing this pipeline:
 cd [PATH]/rh1_gene_tree_inference/src

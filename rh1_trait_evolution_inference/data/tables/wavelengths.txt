@@ -26,7 +26,7 @@ Diretmus_argenteus_RH1_P	472
 Diretmus_argenteus_RH1_S	462
 Diretmus_argenteus_RH1_T	463
 Diretmus_argenteus_RH1_Ua	491
-Diretmus_argenteus_RH1_Ub_RH1	491
+Diretmus_argenteus_RH1_Ub	491
 Diretmus_argenteus_RH1_Uc	492
 Diretmus_argenteus_RH1_Ud	482
 Diretmus_argenteus_RH1_V	448

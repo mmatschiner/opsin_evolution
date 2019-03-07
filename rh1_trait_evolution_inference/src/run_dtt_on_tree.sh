@@ -5,10 +5,10 @@ mkdir -p ../res/geiger
 mkdir -p ../res/geiger_model_predicted
 
 # Run a disparity-through-time analysis with geiger.
-#rscript run_dtt_on_tree.r ../res/trees/rod_opsin_pruned.tre ../data/tables/wavelengths.txt > ../res/geiger/dtt.txt
+rscript run_dtt_on_tree.r ../res/trees/rod_opsin_pruned.tre ../data/tables/wavelengths.txt > ../res/geiger/dtt.txt
 
 # Move the output plot to the results directory.
-#mv Rplots.pdf ../res/geiger/dtt.pdf
+mv Rplots.pdf ../res/geiger/dtt.pdf
 
 # Run disparity-through-time analyses with geiger for all possible combinations of wavelengths at phased genes.
 for i in `seq -w 256`

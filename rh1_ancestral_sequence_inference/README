@@ -15,7 +15,7 @@ MM - Directory for BEAST add-on package MM (implementing models of Lewis 2001), 
 
 Input files in data directory:
 alignments/indels.nex - Specification of indel absence and presence in Nexus format.
-alignments/RH1_ourdata_20161023_trimmed.phy - RH1 gene alignment, trimmed by removing positions after site 1052.
+alignments/rod_opsin_trimmed.phy - RH1 gene alignment, trimmed by removing positions after site 1052.
 tables/key_tuning_sites.txt - Table of key spectral tuning sites.
 trees/rod_opsin_notranslate.tre - MCC tree of the time-calibrated RH1 gene phylogeny (see the directory for analysis 'rh1_gene_tree_inference').
 xml/indels.xml - BEAST input file for the Bayesian reconstruction of indel states at internal nodes of the gene phylogeny. This file was produced with BEAUti.

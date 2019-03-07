@@ -31,39 +31,39 @@
         Lampris_guttatus_RH1                                           011001110011
         Regalecus_glesne_RH1                                           011001110011
         Polymixia_japonica_RH1                                         011001110011
-        Diretmoides_pauciradiatus_RH1_COP_cDNA                         011001110011
-        Diretmoides_pauciradiatus_RH1_U_cDNA                           011001110011
-        Diretmoides_pauciradiatus_RH1_ZLO_cDNA                         011001110011
+        Diretmoides_pauciradiatus_RH1_MUb                              011001110011
+        Diretmoides_pauciradiatus_RH1_MUa                              011001110011
+        Diretmoides_pauciradiatus_RH1_MUc                              011001110011
         Diretmus_argenteus_RH1_Ma                                      011001110011
         Diretmus_argenteus_RH1_Ua                                      011001110011
-        Diretmus_argenteus_RH1_Ub_RH1                                  011001110011
+        Diretmus_argenteus_RH1_Ub                                      011001110011
         Diretmus_argenteus_RH1_Ud                                      011001110011
         Diretmus_argenteus_RH1_Uc                                      011001110011
         Diretmus_argenteus_RH1_Mb                                      011001110011
-        Diretmoides_pauciradiatus_RH1_FUJ_cDNA                         011001110011
-        Diretmoides_pauciradiatus_RH1_KRK_part_cDNA                    011001110011
-        Diretmoides_pauciradiatus_RH1_STO_cDNA                         011001110011
+        Diretmoides_pauciradiatus_RH1_La                               011001110011
+        Diretmoides_pauciradiatus_RH1_Mu                               011001110011
+        Diretmoides_pauciradiatus_RH1_Lb                               011001110011
         Diretmus_argenteus_RH1_La                                      011001110011
         Diretmus_argenteus_RH1_Lb                                      011001110011
         Diretmus_argenteus_RH1_Lc                                      011001110011
         Diretmus_argenteus_RH1_Za                                      011001110011
         Diretmus_argenteus_RH1_Zb                                      011001110011
-        Diretmoides_pauciradiatus_RH1_MRKab_cons_cDNA                  011001110011
+        Diretmoides_pauciradiatus_RH1_Ka                               011001110011
         Diretmus_argenteus_RH1_K                                       011001110011
-        Diretmoides_pauciradiatus_RH1_VLK_cDNA                         011001110011
+        Diretmoides_pauciradiatus_RH1_Kb                               011001110011
         Diretmus_argenteus_RH1_Ja                                      011001110011
         Diretmus_argenteus_RH1_Jb                                      011001110011
         Diretmus_argenteus_RH1_O                                       011001110011
-        Diretmoides_pauciradiatus_RH1_PES_cDNA                         011001110011
+        Diretmoides_pauciradiatus_RH1_KOJ                              011001110011
         Diretmus_argenteus_RH1_N                                       011001110011
-        Diretmoides_pauciradiatus_RH1_TUKa_II_pseudogen_cDNA           001001110011
-        Diretmoides_pauciradiatus_RH1_TUKb_cDNA_pseudogen              001001110011
-        Diretmoides_pauciradiatus_RH1_X_cDNA                           011001110011
+        Diretmoides_pauciradiatus_RH1_OJa                              001001110011
+        Diretmoides_pauciradiatus_RH1_OJb                              001001110011
+        Diretmoides_pauciradiatus_RH1_X                                011001110011
         Diretmus_argenteus_RH1_Xa                                      011001110011
         Diretmus_argenteus_RH1_Xb                                      011001110011
-        Diretmoides_pauciradiatus_RH1_MRKc_cDNA                        011001110011
+        Diretmoides_pauciradiatus_RH1_Y                                011001110011
         Diretmus_argenteus_RH1_Y                                       011001110011
-        Diretmoides_pauciradiatus_RH1_MOC_cDNA                         011001110011
+        Diretmoides_pauciradiatus_RH1_P                                011001110011
         Diretmus_argenteus_RH1_P                                       011001110011
         Parasudis_frasserbrunneri_RH1                                  011001110011
         Diretmus_argenteus_RH1_Q_pseudogene                            010001110011
@@ -186,31 +186,31 @@
         Ceratoscopelus_warmingii_RH1x1                                 011001110011
         Ceratoscopelus_warmingii_RH1x2                                 011001110011
         Scopelopsis_multipunctatus_RH1x1                               011001110011
-        Diretmoides_pauciradiatus_RH1_D_cDNA                           011000011011
+        Diretmoides_pauciradiatus_RH1_D                                011000011011
         Diretmus_argenteus_RH1_D                                       011000011011
         Diretmus_argenteus_RH1_C                                       011000011011
         Diretmus_argenteus_RH1_E_pseudogen                             011000011011
         Diretmus_argenteus_RH1_B                                       011000011011
         Diretmus_argenteus_RH1_A                                       011000011011
-        Diretmoides_pauciradiatus_RH1_FabGab_cDNA                      011000011111
+        Diretmoides_pauciradiatus_RH1_FG                               011000011111
         Diretmus_argenteus_RH1_Fa                                      011000011111
         Diretmus_argenteus_RH1_Fb                                      011000011111
         Diretmus_argenteus_RH1_Ga                                      011000011111
         Diretmus_argenteus_RH1_Gb                                      011000011111
-        Diretmoides_pauciradiatus_RH1_HabIa_cDNA                       011000011011
+        Diretmoides_pauciradiatus_RH1_HFG                              011000011011
         Diretmus_argenteus_RH1_Ha                                      011000011001
         Diretmus_argenteus_RH1_Hb                                      011000011001
         Diretmus_argenteus_RH1_Hc                                      011000011011
         Diretmus_argenteus_RH1_Hd                                      011000011011
         Diretmus_argenteus_RH1_He_pseudogene                           011000011011
         Diretmus_argenteus_RH1_Ia                                      011000011011
-        Diretmoides_pauciradiatus_RH1_S_cDNA                           011000011011
+        Diretmoides_pauciradiatus_RH1_SV                               011000011011
         Diretmus_argenteus_RH1_S                                       011000011011
         Diretmus_argenteus_RH1_V                                       011000011011
         Diretmus_argenteus_RH1_Ib_part                                 011010011011
-        Diretmoides_pauciradiatus_RH1_W_cDNA                           011000011011
+        Diretmoides_pauciradiatus_RH1_W                                011000011011
         Diretmus_argenteus_RH1_W                                       011000011011
-        Diretmoides_pauciradiatus_RH1_T_cDNA                           011000011011
+        Diretmoides_pauciradiatus_RH1_T                                011000011011
         Diretmus_argenteus_RH1_T                                       011000011011
         Cyprinus_carpio_RH1_01_like_pseud                              011001110011
         Cyprinus_carpio_RH1_02_like                                    011001110011
