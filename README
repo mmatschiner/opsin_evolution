@@ -7,3 +7,4 @@ Analyses were performed in the following order:
 - rh1_gene_tree_inference
 - rh1_trait_evolution_inference
 - rh1_ancestral_sequence_inference
+- atomistic_molecular_dynamics_simulations
