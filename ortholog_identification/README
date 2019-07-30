@@ -17,7 +17,7 @@ Epae.scf.fasta (Epinephelus aeneus)
 Moal.scf.fasta (Monopterus albus)
 Pipr.scf.fasta (Pimephales promelas)
 
-The first seven of these assembly files are available from https://www.ebi.ac.uk/ena/data/view/PRJEB30779&portal=assembly. The other eight of these assembly files will be made available soon (or immediately upon request). After downloading, the 7+8 new assembly files must be renamed with the names given above and placed in ../data/subjects. Finally, three further genomes used in our study are so far unpublished, these are for the species Syngnathus typhle, Synodus synodus, and Lophius vaillanti. We here include those parts of these genomes that include exon markers used for phylogenomic analyses. The files for these three partial genomes are
+The first seven of these assembly files are available from https://www.ebi.ac.uk/ena/data/view/PRJEB30779&portal=assembly. The other eight of these assembly files are available from https://figshare.com/s/e66a01859cedc8e01aaa. After downloading, the 7+8 new assembly files must be uncompressed renamed with the names given above and placed in ../data/subjects. Finally, three further genomes used in our study are so far unpublished, these are for the species Syngnathus typhle, Synodus synodus, and Lophius vaillanti. We here include those parts of these genomes that include exon markers used for phylogenomic analyses. The files for these three partial genomes are
 
 Syntyp.part.fasta (Syngnathus typhle)
 fish_45.part.fasta (Synodus synodus)
